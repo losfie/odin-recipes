@@ -39,6 +39,9 @@ h1{
 .button{
     color: black;
     margin: 0 auto;
+    text-align: center;
+    display: block;
+
 }
 
 .image1{
