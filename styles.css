@@ -1,0 +1,66 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: black;
+}
+
+h1{
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.one{
+    font-size: 20px;
+    color: black;
+    background: rgb(255, 255, 255);
+    padding: 8px 16px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.two{
+    font-size: 20px;
+    color: black;
+    background: rgb(255, 255, 255);
+    padding: 8px 16px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.card{
+    width: 600px;
+    background: #000000;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.button{
+    color: black;
+    margin: 0 auto;
+}
+
+.image1{
+    width: 300px;
+    height: auto;
+    align-items: center;
+    display: block;
+    margin: 0 auto;
+}
+
+h2{
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.descr{
+    padding: 8px 16px;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
